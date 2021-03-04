@@ -1,0 +1,18 @@
+.profile-container{
+    margin-top: 100px;
+    color:white;
+    text-align: center;
+    background-color: rgb(73, 70, 73);
+    width: 700px;
+    margin:auto;
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 5px;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+}
+.info-container{
+    margin-left: 30px;
+}

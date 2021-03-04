@@ -1,0 +1,15 @@
+.produit{
+    margin-top: 100px;
+    text-align: center;
+}
+.add-btn{
+    border-radius: 5px;
+    border:none;
+    outline:none;
+    padding: 10px;
+    background-color: rgb(245, 111, 87);
+    color:white
+}
+.add-btn:hover{
+    background-color: rgb(211, 147, 135);
+}

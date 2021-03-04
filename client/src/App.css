@@ -1,0 +1,13 @@
+.home-container,body {
+    background: url(../../client/src/img/backgd.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    position: relative;
+  }
+  .Spinner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+  }

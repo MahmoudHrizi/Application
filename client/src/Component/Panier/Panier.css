@@ -1,0 +1,25 @@
+.Panier-container {
+   
+    border-radius: 7px;
+    background-color: rgb(116, 129, 129);
+    width: 900px;
+    margin:auto;
+    margin-top: 100px;
+    padding: 15px;
+  }
+  .pannier-item{
+    display: flex;
+    align-items: center;
+    margin:15px;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: rgb(185, 179, 169);
+  }
+  .img-panier{
+    border-radius: 0;
+    width: 100px;
+  }
+  .panier-info{
+    margin-left: 15px;
+    color: rgb(61, 58, 58);
+  }

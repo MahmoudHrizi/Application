@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://mahmoud:azerty123@cluster0.tywky.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "TokenSecret" : "TokenSecret"
+}

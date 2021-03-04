@@ -1,0 +1,14 @@
+.home-container{
+
+    background-color: black;
+}
+.List-container {
+    
+    height: auto;
+  }
+  .List-produit {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
